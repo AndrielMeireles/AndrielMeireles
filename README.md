@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Andriel Meireles!👋
 
 
-- 🔭 Hoje estou trabalhando com Infraestrutura de IT
+- 🔭 Hoje estou trabalhando com Infraestrutura de IT.
 - 🌱 Estudando Cybersecurity
 - 📫 Contato: andrielmeirelescontato@gmail.com
 
