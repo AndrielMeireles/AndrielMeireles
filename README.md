@@ -1,6 +1,6 @@
 ### Olá, Eu sou o Andriel!👋
 
-- 🔭 Hoje estou trabalhando como Analista de segurança da informação .
+- 🔭 Hoje estou trabalhando como Analista de segurança da informação.
 - 🌱 Estudando Cybersecurity
 - 📫 Contato: andrielmeirelescontato@gmail.com
 
