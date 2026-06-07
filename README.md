@@ -1,7 +1,6 @@
-### Olá, Eu sou o Andriel Meireles!👋
+### Olá, Eu sou o Andriel!👋
 
-
-- 🔭 Hoje estou trabalhando com Infraestrutura de IT.
+- 🔭 Hoje estou trabalhando como Analista de segurança da informação .
 - 🌱 Estudando Cybersecurity
 - 📫 Contato: andrielmeirelescontato@gmail.com
 
